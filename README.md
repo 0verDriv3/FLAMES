@@ -1,5 +1,5 @@
-# FLAMES_Game
-Childhood relationship status game
+# FLAMES
+Childhood Relationship Status Game
 
 Legends:
   F - Friends
