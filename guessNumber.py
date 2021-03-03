@@ -7,6 +7,7 @@ from random import randint
 import os
 import platform
 import time
+import sys
 
 setDifficulty = ''
 
@@ -167,7 +168,7 @@ def main():
 						setDifficulty = ''
 						main()
 						break
-						
+
 					else:
 						main()
 						break
@@ -182,4 +183,16 @@ def main():
 	return 0
 
 if __name__== '__main__':
-	main()
+	clearScreen()
+	gameTitle()
+
+	while True:
+		play = str(input("Do you want to play: [Y] - Yes | [N] - No: "))
+		if play[0].lower() == 'y':
+			main()
+			break
+		elif play[0].lower() == 'n':
+			sys.exit()
+			break
+		else:
+			continue
