@@ -1,8 +1,9 @@
 # SimpleGames
 
-<h2>FLAMES</h2>
-**Childhood Relationship Status Game**
-
+FLAMES
+```
+Childhood Relationship Status Game
+```
 **Legends:**
   * F - Friends
   * L - Lovers
@@ -11,8 +12,10 @@
   * E - Engage
   * S - Soulmate
 
-<h2>GUESSING GAME</h2>
-**Test your deduction in this game**
+GUESSING GAME
+```
+Test your deduction in this game
+```
 
 
 
