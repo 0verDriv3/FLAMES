@@ -140,6 +140,7 @@ def main():
 
 				else:
 					print("[!] Invalid input, must be a letters/characters")
+			break
 	return 0
 
 if __name__== '__main__':
