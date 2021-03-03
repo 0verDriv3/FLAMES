@@ -1,12 +1,12 @@
 # FLAMES
-Childhood Relationship Status Game
+**Childhood Relationship Status Game
 
-Legends:
-  F - Friends
-  L - Lovers
-  A - Anger
-  M - Marriage
-  E - Engage
-  S - Soulmate
+**Legends:**
+  * F - Friends
+  * L - Lovers
+  * A - Anger
+  * M - Marriage
+  * E - Engage
+  * S - Soulmate
 
 
