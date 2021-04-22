@@ -1,4 +1,4 @@
-<h2>Lists:</h2>
+<h2>CONTENTS</h2>
 <ul>
   <li>Guessing Game - Guess the exact number.</li> 
   <li>FizzBuzz - My fizz buzz implementation.</li>
